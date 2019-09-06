@@ -1,5 +1,4 @@
 # PalmFarm-Mobile-App-
-The purpose of the project is to make a user friendly mobile application for the farmers to support them in making right decisions towards the cultivation of their desired crops. 
 
 About The App
 
